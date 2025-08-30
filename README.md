@@ -1,1 +1,1 @@
-<h1 align="center">Welcome to my code garden! 🐇🌸</h1>
+<h1 align="center">Welcome to my code garden! 🐇🌸✨</h1>
