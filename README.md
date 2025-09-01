@@ -1,4 +1,4 @@
-<h1 align="center">Welcome to my code garden! 🐇🌸✨</h1>
+<h1 align="center">Welcome to my code garden! ✨🌱🌷✨</h1>
 <p align="center">
   <!-- Counters and badges -->
   <img src="https://img.shields.io/badge/Vegan-100%25-C4F2D1?style=flat-square" alt="Vegan" />
