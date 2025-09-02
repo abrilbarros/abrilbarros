@@ -22,3 +22,10 @@
   <img src="https://img.shields.io/badge/JavaScript-FFF6B3?logo=javascript&logoColor=black&style=flat-square" />
   <img src="https://img.shields.io/badge/Python-DCC7F6?logo=python&logoColor=white&style=flat-square" />
 </p>
+
+<div align="center">꒰ ✧ ˚₊ ⑅ ₊˚ ✧ ꒱</div>
+
+## 🌟 Thanks for visiting
+I’m always open to connect, share ideas, and collaborate on projects.  
+Whether it’s coding, design, or creative experiments, feel free to reach out.  
+💌 Let’s build something wonderful together!
