@@ -12,6 +12,7 @@
 - I'm Abril, a **Web Development** student and future **English teacher** from 🇦🇷  
 - Currently focused on **Python**, **HTML/CSS/JS**, and **UI/UX basics** 
 - Fun fact: I adore kawaii stationery and cruelty-free tea time 🍵
+- Be curious, be creative, be kind 🐝🌈
 
 <div align="center">❀ — — — — — — — — — — — — — — — — — — — — — ❀</div>
 
